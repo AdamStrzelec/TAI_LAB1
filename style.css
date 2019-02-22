@@ -1,3 +1,16 @@
 body{
     background-color: aquamarine;
 }
+
+.nav{
+    display: flex;
+    
+}
+
+.nav li{
+    margin-left: 20px;
+}
+
+#menu{
+    text-align: center;
+}
