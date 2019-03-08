@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+
+.nav{
+    display: flex;
+    
+}
+
+.nav li{
+    margin-left: 20px;
+}
+
+#menu{
+    text-align: center;
+}
+.no-margin{
+	margin-left: 0px;
+}
+
+footer{
+    text-align: center;
+}
+#name{
+    font-style: italic;
+}
