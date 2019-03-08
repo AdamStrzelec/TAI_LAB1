@@ -17,3 +17,10 @@ body{
 .no-margin{
 	margin-left: 0px;
 }
+
+footer{
+    text-align: center;
+}
+#name{
+    font-style: italic;
+}
